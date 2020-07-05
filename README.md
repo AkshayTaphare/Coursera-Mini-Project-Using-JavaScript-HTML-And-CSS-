@@ -1,0 +1,2 @@
+# Coursera-Mini-Project-Using-JavaScript-HTML-And-CSS-
+This is a project of one of the course from Coursera which name is Programming Foundations With JavaScript,HTML And CSS.Here in this project ,various filter are applied to image.Names of that filter are GrayScale,Red,Blur,Rainbow .Also there is one filter which name is "Reset".By using this we can easily reset our image back to its original image.
